@@ -79,7 +79,7 @@
           <mxGeometry x="440" y="450" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="322.99" y="490" width="227.01" height="50" as="geometry" />
+          <mxGeometry x="318" y="490" width="227.01" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-56" value="语义分割结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="660" width="109.88" height="30" as="geometry" />
@@ -87,7 +87,7 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-57" value="精度评价论证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="630" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jrBjgvYLt9ZZ_M-nyuaP-53">
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="jrBjgvYLt9ZZ_M-nyuaP-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="530" as="sourcePoint" />
             <mxPoint x="680" y="515" as="targetPoint" />

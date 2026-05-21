@@ -123,8 +123,8 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-81" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="274.12" y="590" width="159.88" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-82" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="490" y="625" width="100" height="50" as="geometry" />
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-82" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="434" y="590" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

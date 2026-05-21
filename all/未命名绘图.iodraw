@@ -51,7 +51,7 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-34" value="验证数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="453" y="300" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jrBjgvYLt9ZZ_M-nyuaP-35" target="jrBjgvYLt9ZZ_M-nyuaP-36">
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="jrBjgvYLt9ZZ_M-nyuaP-35" target="jrBjgvYLt9ZZ_M-nyuaP-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">

@@ -87,7 +87,7 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-56" value="语义分割结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280.12" y="560" width="109.88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-57" value="精度评价论证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482.87" y="560" width="100" height="30" as="geometry" />
         </mxCell>
       </root>

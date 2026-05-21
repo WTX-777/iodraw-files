@@ -90,10 +90,10 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jrBjgvYLt9ZZ_M-nyuaP-53" target="jrBjgvYLt9ZZ_M-nyuaP-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="590" as="sourcePoint" />
-            <mxPoint x="530" y="540" as="targetPoint" />
+            <mxPoint x="480" y="580" as="sourcePoint" />
+            <mxPoint x="530" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

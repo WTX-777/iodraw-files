@@ -84,7 +84,7 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jrBjgvYLt9ZZ_M-nyuaP-53" target="jrBjgvYLt9ZZ_M-nyuaP-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-56" value="精度评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-56" value="语义分割结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280.12" y="560" width="109.88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -143,8 +143,11 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-88" value="结果可视化比较" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="446.06" y="700" width="131.88" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-94" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="368" y="810" width="50" height="100" as="geometry" />
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-94" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="343" y="835" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.215;entryY=0.474;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jrBjgvYLt9ZZ_M-nyuaP-94" target="jrBjgvYLt9ZZ_M-nyuaP-94">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

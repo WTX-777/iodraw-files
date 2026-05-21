@@ -28,6 +28,12 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-21" value="标签重映" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="323" y="210" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="jrBjgvYLt9ZZ_M-nyuaP-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

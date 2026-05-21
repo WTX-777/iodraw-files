@@ -123,6 +123,11 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-81" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="274.12" y="590" width="159.88" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jrBjgvYLt9ZZ_M-nyuaP-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-82" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="434" y="590" width="156" height="50" as="geometry" />
         </mxCell>

@@ -7,8 +7,8 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-2" value="DALES点云数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="340" width="50" height="100" as="geometry" />
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="389" y="120" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

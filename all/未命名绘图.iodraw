@@ -10,7 +10,7 @@
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-2" value="DALES点云数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#00CC66;" vertex="1" parent="1">
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="264" y="180" width="300" height="60" as="geometry" />
         </mxCell>
       </root>

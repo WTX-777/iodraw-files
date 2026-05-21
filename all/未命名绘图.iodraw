@@ -58,25 +58,25 @@
           <mxGeometry x="373" y="330" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-36" value="" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;pointerEvents=1;dashed=1;fillColor=#1372A1;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="280.12" y="420" width="302.75" height="90" as="geometry" />
+          <mxGeometry x="280.12" y="400" width="302.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-39" value="PointNet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="430" width="60" height="20" as="geometry" />
+          <mxGeometry x="300" y="410" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-40" value="PointNet++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368" y="430" width="66" height="20" as="geometry" />
+          <mxGeometry x="368" y="410" width="66" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-41" value="DGCNN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="430" width="64" height="20" as="geometry" />
+          <mxGeometry x="440" y="410" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-42" value="SPGraph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="430" width="60" height="20" as="geometry" />
+          <mxGeometry x="510" y="410" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-43" value="Point Transformer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="470" width="117" height="30" as="geometry" />
+          <mxGeometry x="300" y="450" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-44" value="Point Transformer-MGFAM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="470" width="117" height="30" as="geometry" />
+          <mxGeometry x="440" y="450" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="334" y="510" width="202" height="50" as="geometry" />

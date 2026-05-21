@@ -12,7 +12,7 @@
         <mxCell id="B26bUgUk0BPimWJyK_R9-1" value="基于改进Point Transformer模型的点云语义分割研究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="262" y="40" width="304" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B26bUgUk0BPimWJyK_R9-3" value="第一章 绪论" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#3399FF;strokeColor=#006EAF;fontColor=#ffffff;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="B26bUgUk0BPimWJyK_R9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#006EAF;fontColor=#ffffff;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="260" y="110" width="310" height="90" as="geometry" />
         </mxCell>
       </root>

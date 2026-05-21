@@ -79,7 +79,7 @@
           <mxGeometry x="440" y="450" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="323" y="490" width="217" height="50" as="geometry" />
+          <mxGeometry x="322.99" y="490" width="227.01" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-56" value="语义分割结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="660" width="109.88" height="30" as="geometry" />

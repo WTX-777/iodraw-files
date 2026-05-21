@@ -45,6 +45,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jrBjgvYLt9ZZ_M-nyuaP-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jrBjgvYLt9ZZ_M-nyuaP-32" value="训练数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="300" width="80" height="30" as="geometry" />
         </mxCell>
